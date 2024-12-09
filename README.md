@@ -24,6 +24,6 @@ Site Original - https://caawards.com.ar/
 </a>
 
 - @Dantito : Por crear el 3D Model del picante.
-- @WiruWiru : Por implementar ThreeJs y hacer la Internacionalización(i18n)
+- @WiruWiru : Por implementar ThreeJs y hacer la Internacionalización(i18n) 
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
